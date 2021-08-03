@@ -9,5 +9,5 @@ the Druid client provided in this project.
 At the moment, the primary purpose of this project is to prototype tools for helping
 to optimize a Druid datasource. See the Jupyter nodebooks for examples.
 
-* [Schema analysis]() shows how to analyze your table schema.
+* [Schema analysis](https://nbviewer.jupyter.org/github/paul-rogers/pydruidapi/blob/main/Schema.ipynb) shows how to analyze your table schema.
 * (More to come later.)
